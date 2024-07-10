@@ -1,0 +1,16 @@
+name: "Bit"
+website_url: "https://github.com/sjdonado/bit"
+source_code_url: "https://github.com/sjdonado/bit"
+description: "Blazing-fast, featherweight, and hassle-free self-hosted URL shortener."
+licenses:
+  - MIT License
+platforms:
+  - Crystal
+  - Docker
+tags:
+  -  URL Shorteners
+  - Calendar & Contacts
+  - Bookmarks and Link Sharing
+  - Pastebins
+depends_3rdparty: false
+demo_url: "https://bit.donado.co"
